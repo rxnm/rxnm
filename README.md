@@ -5,7 +5,4 @@ passionate programmer/designer
 
 Passionate and design-oriented developers with a primary focus on providing quality resources and user experience that are open source and entirely free for all of the FiveM community to enjoy and use. https://discord.com/invite/Vgmmt3C
 
-If you'd like to buy me a coffee! https://www.buymeacoffee.com/VGNetwork
-
-[buymeacoffee]([https://www.buymeacoffee.com/VGNetwork))
-[ko-fi]([https://ko-fi.com/vgnetwork)))
+If you'd like to support us then [buymeacoffee](https://www.buymeacoffee.com/VGNetwork) or [ko-fi](https://ko-fi.com/vgnetwork)
